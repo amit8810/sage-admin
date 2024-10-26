@@ -8,7 +8,7 @@ const Login = () => {
     const handleLogin = () => {
         // login logic
 
-        navigate('/admin')
+        navigate('/organizations')
     }
     return (
         <div className="h-[100vh] flex p-[48px]">
